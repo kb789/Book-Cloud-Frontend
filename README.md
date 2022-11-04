@@ -12,7 +12,7 @@ First, the user creates an account with an email or password, or they can sign i
 
 ## Technologies Used
 
-The frontend of this applicationwas built with React. The backend was built with Python. The link to the backend code is here: Firebase was used to manage authentication, and a Firebase database was used for storage.
+The frontend of this applicationwas built with React. The backend was built with [https://github.com/kb789/Book-Cloud-back](Python). The link to the backend code is here: Firebase was used to manage authentication, and a Firebase database was used for storage.
 
 
 ## APIs used
